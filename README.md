@@ -12,7 +12,7 @@ In this repository, you will find categories for various Elrond products. Feel f
 | 🔁  [API](https://github.com/ElrondNetwork/community/discussions/categories/api) 	| [Elrond API](https://github.com/ElrondNetwork/api.elrond.com) |
 | 🔎  [Maiar Exchange](https://github.com/ElrondNetwork/community/discussions/categories/maiar-exchange) 	| [Maiar Exchange](https://maiar.exchange/) 	|
 | 💻  [Maiar](https://github.com/ElrondNetwork/community/discussions/categories/maiar) 	| [Maiar](https://maiar.com/) 	|
-| 👩‍✈️  [Maiar Launchpad](https://github.com/ElrondNetwork/community/discussions/categories/maiar-launchpad)   	| [Maiar Launchpad](https://maiarlaunchpad.com/) (Technical Preview) 	|
+| 👩‍✈️  [SDKs](https://github.com/ElrondNetwork/community/discussions/categories/sdks)   	| [SDKs](https://docs.elrond.com/sdk-and-tools/overview/) (Technical Preview) 	|
 | 🤖  [Developers](https://github.com/ElrondNetwork/community/discussions/categories/q-a) 	| [Docs](https://docs.elrond.com/) 	|
 | :octocat:  [General](https://github.com/ElrondNetwork/community/discussions/categories/general) 	| [General](https://github.com/ElrondNetwork/community/discussions/categories/general) |
 
