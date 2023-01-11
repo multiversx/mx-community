@@ -6,15 +6,15 @@ In this repository, you will find categories for various MultiversX products. Fe
 
 ## MultiversX Products Feedback
 
-| **Feedback Category** | **About the Product** 	|
-|---	|---	|
-| 👍  [Technology](https://github.com/multiversx/mx-community/discussions/categories/protocol) 	| [About Technology](https://multiversx.com/technology/) |
-| 🔁  [API](https://github.com/multiversx/mx-community/discussions/categories/api) 	| [MultiversX API](https://github.com/ElrondNetwork/api.elrond.com) |
-| 🔎  [Xexchange](https://github.com/multiversx/mx-community/discussions/categories/maiar-exchange) 	| [Xexchange](https://xexchange.com/) 	|
-| 💻  [XPortal](https://github.com/multiversx/mx-community/discussions/categories/maiar) 	| [XPortal](https://XPortal.com/) 	|
-| 👩‍✈️  [SDKs](https://github.com/multiversx/mx-community/discussions/categories/sdks)   	| [SDKs](https://docs.multiversx.com/sdk-and-tools/overview/) (Technical Preview) 	|
-| 🤖  [Developers](https://github.com/multiversx/mx-community/discussions/categories/q-a) 	| [Docs](https://docs.multiversx.com/) 	|
-| :octocat:  [General](https://github.com/multiversx/community/discussions/categories/general) 	| [General](https://github.com/multiversx/mx-community/discussions/categories/general) |
+| **Feedback Category**                                                                            | **About the Product**                                                                |
+| ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ |
+| 👍 [Technology](https://github.com/multiversx/mx-community/discussions/categories/protocol)      | [About Technology](https://multiversx.com/technology/)                               |
+| 🔁 [API](https://github.com/multiversx/mx-community/discussions/categories/api)                  | [MultiversX API](https://github.com/multiversx/mx-api-service)                       |
+| 🔎 [Xexchange](https://github.com/multiversx/mx-community/discussions/categories/maiar-exchange) | [Xexchange](https://xexchange.com/)                                                  |
+| 💻 [XPortal](https://github.com/multiversx/mx-community/discussions/categories/maiar)            | [XPortal](https://XPortal.com/)                                                      |
+| 👩‍✈️ [SDKs](https://github.com/multiversx/mx-community/discussions/categories/sdks)                | [SDKs](https://docs.multiversx.com/sdk-and-tools/overview/) (Technical Preview)      |
+| 🤖 [Developers](https://github.com/multiversx/mx-community/discussions/categories/q-a)           | [Docs](https://docs.multiversx.com/)                                                 |
+| :octocat: [General](https://github.com/multiversx/community/discussions/categories/general)      | [General](https://github.com/multiversx/mx-community/discussions/categories/general) |
 
 These discussions are where you can share suggestions for how the products should be improved and discuss those improvements with the community, including members of the MultiversX team. Check out [Making suggestions](#making-suggestions) to learn how to provide feedback.
 
@@ -22,17 +22,17 @@ These discussions are where you can share suggestions for how the products shoul
 
 You will also find Telegram Community groups below:
 
-| **Discourse Category** | **New Discussions Category** 	|
-|---	|---	|
-| Telegram: Announcements | [MultiversX Announcements](https://t.me/ElrondNetworkAnn) |
-| Telegram: Community 	| [MultiversX Community](https://t.me/ElrondNetwork) |
-| Telegram: Xexchange 	| [Xexchange](https://t.me/MaiarApp) 	|
-| Telegram: Validators	| [MultiversX Validators](https://t.me/ElrondValidators) 	|
-| Telegram: Developers	| [MultiversX Developers](https://t.me/ElrondDevelopers) 	|
+| **Discourse Category**  | **New Discussions Category**                               |
+| ----------------------- | ---------------------------------------------------------- |
+| Telegram: Announcements | [MultiversX Announcements](https://t.me/MultiversXAnn)     |
+| Telegram: Community     | [MultiversX Community](https://t.me/MultiversX)            |
+| Telegram: Xexchange     | [Xexchange](https://t.me/xExchangeApp)                     |
+| Telegram: Validators    | [MultiversX Validators](https://t.me/MultiversXValidators) |
+| Telegram: Developers    | [MultiversX Developers](https://t.me/MultiversXDevelopers) |
 
 When creating a new post, make sure to choose the predetermined category that best fits your topic. This will ensure that conversations are indexed by their corresponding product or feature, to help community members quickly find answers to their questions.
 
-This repository works in conjunction with the [MultiversX public product roadmap](https://github.com/orgs/ElrondNetwork/projects/4), which is where you can learn about what features from the community we're working on, and when they should be available. Please review the [CODE OF CONDUCT](https://github.com/multiversx/mx-chain-go/blob/master/.github/CODE_OF_CONDUCT.md) before participating in discussions.
+This repository works in conjunction with the [MultiversX public product roadmap](https://docs.multiversx.com/welcome/welcome-to-multiversx), which is where you can learn about what features from the community we're working on, and when they should be available. Please review the [CODE OF CONDUCT](https://github.com/multiversx/mx-chain-go/blob/master/.github/CODE_OF_CONDUCT.md) before participating in discussions.
 
 ## Making suggestions
 
@@ -42,7 +42,7 @@ Prior to creating a new discussion, please take a look at previous discussions t
 
 ### From a suggestion to a shipped feature or a fixed bug
 
-Once you kick off a discussion, the MultiversX team will evaluate the feedback but will not be able to respond to every submission. From there, we will work with you, and the entire community, to ensure we understand the current capabilities MultiversX doesn’t have and explore the space for potential solutions to your problem statement:
+Once you kick off a discussion, the MultiversX team will evaluate the feedback but will not be able to respond to every submission. From there, we will work with you, and the entire community, to ensure we understand the current capabilities MultiversX doesn't have and explore the space for potential solutions to your problem statement:
 
 - If the core team determines that we are going to prioritize a feature to solve the problem you've identified, we may open an issue and track its development in the [MultiversX public roadmap](https://github.com/orgs/multiversx/projects/4).
 - If the core team determines that we will not be working to solve the problem you have identified, we may comment on the discussion describing our reasoning so our decisions can remain transparent.
